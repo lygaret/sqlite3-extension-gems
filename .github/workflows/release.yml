@@ -17,6 +17,6 @@ jobs:
         id: release
         with:
           release-type: ruby
-          package-name: sqlit3-ext-closure
+          package-name: sqlite3-ext-closure
           bump-minor-pre-major: true
           version-file: "lib/sqlite3_ext_closure/version.rb"
