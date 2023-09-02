@@ -1,5 +1,13 @@
 ## [Unreleased]
 
+### [0.1.2](https://www.github.com/lygaret/sqlite3-extension-gems/compare/v0.1.1...v0.1.2) (2023-09-02)
+
+
+### Bug Fixes
+
+* extension has to be named correctly ([fcca526](https://www.github.com/lygaret/sqlite3-extension-gems/commit/fcca5264b1ccebf34e43da6161d7f06ec08b0c5b))
+* gemfile lock complains everytime we upgrade ([db9dba1](https://www.github.com/lygaret/sqlite3-extension-gems/commit/db9dba1a992ab1b1bb32831267a9fccb1fc188a5))
+
 ### [0.1.1](https://www.github.com/lygaret/sqlite3-extension-gems/compare/v0.1.0...v0.1.1) (2023-09-02)
 
 
