@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
+require "sqlite3-ext-closure/version"
+
 Gem::Specification.new do |spec|
   spec.name    = "sqlite3-ext-closure"
-  spec.version = "1.0"
+  spec.version = SQLite3::Ext::Closure::VERSION
   spec.authors = ["Jon Raphaelson"]
   spec.email   = ["jon@accidental.cc"]
 
