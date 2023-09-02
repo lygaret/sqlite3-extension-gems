@@ -7,4 +7,3 @@ gemspec
 gem "rake"
 gem "rake-compiler"
 gem "rubocop"
-

@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-lib = File.expand_path('./lib', __dir__)
+lib = File.expand_path("./lib", __dir__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "sqlite3-ext-closure/version"
+require "sqlite3_ext_closure/version"
 
 Gem::Specification.new do |spec|
   spec.name    = "sqlite3-ext-closure"
@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">= 3.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = spec.homepage 
+  spec.metadata["source_code_uri"] = spec.homepage
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
@@ -30,4 +30,5 @@ Gem::Specification.new do |spec|
   spec.extensions    = ["ext/sqlite3-closure/extconf.rb"]
 
   spec.add_dependency "sqlite3", "~> 1"
+  spec.metadata["rubygems_mfa_required"] = "true"
 end
