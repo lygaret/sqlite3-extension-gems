@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+## [0.1.4](https://github.com/lygaret/sqlite3-extension-gems/compare/v0.1.3...v0.1.4) (2023-09-02)
+
+
+### Bug Fixes
+
+* bad package name in release workflow ([fc136ef](https://github.com/lygaret/sqlite3-extension-gems/commit/fc136efd0d08415665818dcfb4790b95096a1a8b))
+
 ## [0.1.3](https://github.com/lygaret/sqlite3-extension-gems/compare/v0.1.2...v0.1.3) (2023-09-02)
 
 
