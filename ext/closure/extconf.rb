@@ -10,6 +10,6 @@ unless have_header("sqlite3ext.h")
 end
 
 $CFLAGS << " -fPIC -shared"
-create_makefile("sqlite3-closure")
+create_makefile("closure")
 
 # rubocop:enable Style/GlobalVars

@@ -5,6 +5,6 @@ require "rake/extensiontask"
 require "rubocop/rake_task"
 
 RuboCop::RakeTask.new
-Rake::ExtensionTask.new("sqlite3-closure")
+Rake::ExtensionTask.new("closure")
 
 task default: :rubocop
