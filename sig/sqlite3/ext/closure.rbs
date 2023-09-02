@@ -1,0 +1,8 @@
+module Sqlite
+  module Ext
+    module Closure
+      VERSION: String
+      EXTENSION: String
+    end
+  end
+end
