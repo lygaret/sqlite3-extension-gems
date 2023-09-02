@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+## [0.1.3](https://github.com/lygaret/sqlite3-extension-gems/compare/v0.1.2...v0.1.3) (2023-09-02)
+
+
+### Bug Fixes
+
+* bad extension path in gemspec ([3fac909](https://github.com/lygaret/sqlite3-extension-gems/commit/3fac909b349e99962951ff105fa3b08ff8ca3b85))
+
 ### [0.1.2](https://www.github.com/lygaret/sqlite3-extension-gems/compare/v0.1.1...v0.1.2) (2023-09-02)
 
 
