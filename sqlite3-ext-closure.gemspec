@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   end
 
   spec.require_paths = ["lib"]
-  spec.extensions    = ["ext/sqlite3-closure/extconf.rb"]
+  spec.extensions    = ["ext/closure/extconf.rb"]
 
   spec.add_dependency "sqlite3", "~> 1"
   spec.metadata["rubygems_mfa_required"] = "true"
