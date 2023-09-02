@@ -1,5 +1,14 @@
 ## [Unreleased]
 
+### [0.1.1](https://www.github.com/lygaret/sqlite3-extension-gems/compare/v0.1.0...v0.1.1) (2023-09-02)
+
+
+### Bug Fixes
+
+* include updated version in bundler ([8997ae5](https://www.github.com/lygaret/sqlite3-extension-gems/commit/8997ae51ef759dcb8a4a6bdef4c02be8d3344d64))
+* release had the wrong version path ([30e8383](https://www.github.com/lygaret/sqlite3-extension-gems/commit/30e8383b0ac2ed8f5beadf952303b78ea134e6bc))
+* version constant was incorrect ([f31ca84](https://www.github.com/lygaret/sqlite3-extension-gems/commit/f31ca84decd911a34ab97f83796306a538b0e87b))
+
 ## 0.1.0 (2023-09-02)
 
 
